@@ -5,7 +5,7 @@ import java.util.NoSuchElementException;
 
 /**
  * A class representing a doubly linked list.
- * Chase Whitney
+ * Kassie Whitney
  * 
  * PLEASE DO NOT COPY THIS FILE TO OTHER STUDENTS OR TO WEBSITES LIKE CHEGG,
  * GITHUB, ETC WHERE OTHERS MAY VIEW IT!!! IT IS YOUR WORK AND YOU SHOULD BE
